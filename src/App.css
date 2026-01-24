@@ -1,0 +1,6 @@
+/* Remove default styles - we're using Tailwind */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
